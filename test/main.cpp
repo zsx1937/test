@@ -75,7 +75,7 @@ bool judge6(string s){
 
 int main()
 {
-    string s="1.1.1.1";
+    string s="122.122.122.122";
     cout<<validIPAddress(s)<<endl;
     cout<<judge6("85a3")<<endl;
     
